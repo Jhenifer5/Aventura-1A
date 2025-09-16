@@ -1,7 +1,11 @@
 const avanca = document.querySelector('.btm-proximo');
 
 avanca.forEach(button => {
-    button.addEventListener('click',)
+    button.addEventListener('click', function (){
+const atual= document.querySelector('.ativo');
+    }
+
+    )
 }
 
 )
